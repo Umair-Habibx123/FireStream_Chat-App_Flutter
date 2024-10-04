@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "269173309474",
+    "project_id": "firestream-c856a",
+    "storage_bucket": "firestream-c856a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269173309474:android:a969f4b0db3faad123ca7b",
+        "android_client_info": {
+          "package_name": "com.example.firestream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269173309474-hsr4i4epaidrli37dua8rbukq8m1gagc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firestream",
+            "certificate_hash": "915ac8b791bccd90906f7d959fd1f9da5ddc58f3"
+          }
+        },
+        {
+          "client_id": "269173309474-eipkj3kgi08b1qq1isr5klndcf5pu9m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmlmEVYg-PmLRE-zbF7BOHjdhIOWA36c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269173309474-eipkj3kgi08b1qq1isr5klndcf5pu9m8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "269173309474-9kjpi5n2q0f1d3ro3aqdmb549sojmqdn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firestream"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
